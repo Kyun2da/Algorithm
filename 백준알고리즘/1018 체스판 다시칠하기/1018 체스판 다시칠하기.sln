@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1018 체스판 다시칠하기", "1018 체스판 다시칠하기\1018 체스판 다시칠하기.vcxproj", "{E830A878-F094-4646-9F99-C15B757E22DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E830A878-F094-4646-9F99-C15B757E22DB}.Debug|x64.ActiveCfg = Debug|x64
+		{E830A878-F094-4646-9F99-C15B757E22DB}.Debug|x64.Build.0 = Debug|x64
+		{E830A878-F094-4646-9F99-C15B757E22DB}.Debug|x86.ActiveCfg = Debug|Win32
+		{E830A878-F094-4646-9F99-C15B757E22DB}.Debug|x86.Build.0 = Debug|Win32
+		{E830A878-F094-4646-9F99-C15B757E22DB}.Release|x64.ActiveCfg = Release|x64
+		{E830A878-F094-4646-9F99-C15B757E22DB}.Release|x64.Build.0 = Release|x64
+		{E830A878-F094-4646-9F99-C15B757E22DB}.Release|x86.ActiveCfg = Release|Win32
+		{E830A878-F094-4646-9F99-C15B757E22DB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EF090BB-6338-40FC-A6E9-FEF5C3593899}
+	EndGlobalSection
+EndGlobal
