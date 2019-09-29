@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\dktns\OneDrive\바탕 화면\백준알고리즘\백준알고리즘\삽입 정렬\삽입 정렬\소스.cpp(28,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\dktns\OneDrive\바탕 화면\백준알고리즘\백준알고리즘\삽입 정렬\삽입 정렬\소스.cpp(31,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
