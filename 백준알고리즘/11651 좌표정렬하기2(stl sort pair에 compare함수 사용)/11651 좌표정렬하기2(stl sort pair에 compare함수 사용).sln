@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11651 좌표정렬하기2(stl sort pair에 compare함수 사용)", "11651 좌표정렬하기2(stl sort pair에 compare함수 사용)\11651 좌표정렬하기2(stl sort pair에 compare함수 사용).vcxproj", "{E6904635-7376-480A-91FD-E7393ED8916C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6904635-7376-480A-91FD-E7393ED8916C}.Debug|x64.ActiveCfg = Debug|x64
+		{E6904635-7376-480A-91FD-E7393ED8916C}.Debug|x64.Build.0 = Debug|x64
+		{E6904635-7376-480A-91FD-E7393ED8916C}.Debug|x86.ActiveCfg = Debug|Win32
+		{E6904635-7376-480A-91FD-E7393ED8916C}.Debug|x86.Build.0 = Debug|Win32
+		{E6904635-7376-480A-91FD-E7393ED8916C}.Release|x64.ActiveCfg = Release|x64
+		{E6904635-7376-480A-91FD-E7393ED8916C}.Release|x64.Build.0 = Release|x64
+		{E6904635-7376-480A-91FD-E7393ED8916C}.Release|x86.ActiveCfg = Release|Win32
+		{E6904635-7376-480A-91FD-E7393ED8916C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECD3888B-874E-4E59-BCE4-408F910560CC}
+	EndGlobalSection
+EndGlobal
