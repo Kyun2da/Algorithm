@@ -58,7 +58,7 @@ void Bubble_Sort(int a[], int len) //ex. 54321 을 12345로 오름차순정렬 ,
 
 ### Reference
 
-[거품정렬-위키백과]([https://ko.wikipedia.org/wiki/%EA%B1%B0%ED%92%88_%EC%A0%95%EB%A0%AC](https://ko.wikipedia.org/wiki/거품_정렬))
+[거품정렬-위키백과](https://ko.wikipedia.org/wiki/거품_정렬)
 
 [거품정렬-블로그](https://bowbowbow.tistory.com/10)
 
