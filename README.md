@@ -1,4 +1,4 @@
-# BackJoonAlgorithm
+# Algorithm
 수시로 업데이트 예정
 
 ## 알고리즘 개념 정리
