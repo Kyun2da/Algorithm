@@ -40,7 +40,7 @@ void Insertion_Sort(int arr[], int len)
 }
 ```
 
-[총 소스코드 예시]([https://github.com/Kyun2da/BackJoonAlgorithm/blob/master/백준알고리즘/삽입%20정렬/삽입%20정렬/소스.cpp](https://github.com/Kyun2da/BackJoonAlgorithm/blob/master/%EB%B0%B1%EC%A4%80%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC/%EC%86%8C%EC%8A%A4.cpp)
+[총 소스코드 예시](https://github.com/Kyun2da/BackJoonAlgorithm/blob/master/%EB%B0%B1%EC%A4%80%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC/%EC%86%8C%EC%8A%A4.cpp)
 
 ### Reference
 
