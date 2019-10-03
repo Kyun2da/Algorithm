@@ -8,12 +8,6 @@
 
 ![거품정렬 예](https://upload.wikimedia.org/wikipedia/commons/3/37/Bubble_sort_animation.gif)
 
-- 거품정렬을 춤으로 구현해 놓은 동영상이다.
-
-
-[![거품정렬을 춤으로 구현한 것](http://img.youtube.com/vi/lyZQPjUT5B4/0.jpg)](https://youtu.be/lyZQPjUT5B4?t=0s) 
-
-
 ### 시간복잡도
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=O(n^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?O(n^2)" title="O(n^2)" /></a>
@@ -59,3 +53,8 @@ void Bubble_Sort(int a[], int len) //ex. 54321 을 12345로 오름차순정렬 ,
 
 [거품정렬-블로그](https://bowbowbow.tistory.com/10)
 
+### Bonus
+
+- 거품정렬을 춤으로 구현해 놓은 동영상이다.
+
+[![거품정렬을 춤으로 구현한 것](http://img.youtube.com/vi/lyZQPjUT5B4/0.jpg)](https://youtu.be/lyZQPjUT5B4?t=0s) 
