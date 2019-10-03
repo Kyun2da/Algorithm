@@ -44,7 +44,7 @@ void Insertion_Sort(int arr[], int len)
 
 ### Reference
 
-[삽입정렬(나무위키)]([https://ko.wikipedia.org/wiki/%EC%82%BD%EC%9E%85_%EC%A0%95%EB%A0%AC](https://ko.wikipedia.org/wiki/삽입_정렬))
+[나무위키]([https://ko.wikipedia.org/wiki/%EC%82%BD%EC%9E%85_%EC%A0%95%EB%A0%AC](https://ko.wikipedia.org/wiki/삽입_정렬))
 
 ### Bonus
 
