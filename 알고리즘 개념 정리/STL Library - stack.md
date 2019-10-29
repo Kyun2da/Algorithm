@@ -1,4 +1,4 @@
-## STL Library - stack
+# STL Library - stack
 
 스택은 자료구조중 하나로  <span style="color:red"> *LIFO(Last In First Out)*</span>구조를 가지고 있다.
 
