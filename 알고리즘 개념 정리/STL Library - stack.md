@@ -20,11 +20,17 @@ int main()
 ### 스택 제공 함수
 
 - `push`  :  스택에 새로운 오브젝트를 삽입한다. ex) s.push(1);
+
 - `pop`  :   스택에 가장 윗부분에 있는 오브젝트를 버린다.  ex) s.pop();
+
 - `top` :  스택에서 가장 윗부분에 있는 오브젝트를 반환한다. pop과는 달리 오브젝트가 남아있다.  ex) s.top();
+
 - `size` : 현재 스택의 사이즈를 반환한다. ex) s.size();
+
 - `empty` : 현재 스택이 비어있는지 여부를 반환 (true-비어있음) ex)s.empty();
+
 - `swap` : 두 스택의 내용을 바꿈 ex)s.swap(another_stack);
+
 - `emplace` :  기본 자료형이 아닌 특정 클래스의 Stack이라면 해당 args를 그 클래스의 생성자로 넘겨 해당 클래스의 객체를 생성해서 Stack에 Push한다.
 
 
