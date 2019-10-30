@@ -198,7 +198,7 @@ int main()
 
 ### 예시 코드1 실행 결과
 
-![실행결과1]()  
+![실행결과1](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/list_ex1.png)  
 
 
 
@@ -291,7 +291,8 @@ int main()
 
 ### 예시코드2 실행 결과
 
-![실행결과2]()  
+![실행결과2](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/list_ex2.png)  
+
 
 
 
