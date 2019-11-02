@@ -4,7 +4,7 @@
 ## 알고리즘 개념 정리
 
 ### STL 라이브러리
-* 컨테이너
+* 컨테이너 (헤더가 각 자료지정자의 이름임)
   * [vector](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/STL%20Library%20-%20Vector.md#stl-library---vector)  
   * [stack](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/STL%20Library%20-%20stack.md#stl-library---stack)  
   * [queue](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/STL%20Library%20-%20Queue.md#stl-library---queue)  
@@ -12,7 +12,7 @@
   * [list](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/STL%20Library%20-%20list.md#stl-library---list)  
   * [set](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/STL%20Library%20-%20set.md#stl-library---set)  
   * [map](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/STL%20Library%20-%20map.md#stl-library---map)  
- * 유틸리티
+ * 유틸리티 헤더
    * [pair](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/STL%20Library%20-%20pair.md#stl-library---pair)  
 * 알고리즘 헤더
   * [sort](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/STL%20Library%20-%20Algorithm%20(sort).md#stl-library---algorithm-sort)  
