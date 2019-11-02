@@ -44,4 +44,4 @@ int main() {
 
 ### min,max 소스코드 예시 실행 결과
 
-![실행 결과]()
+![실행 결과](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/min%2Cmax_ex.png)  
