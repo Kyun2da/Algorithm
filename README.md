@@ -17,6 +17,7 @@
 * 알고리즘 헤더
   * [sort](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/STL%20Library%20-%20Algorithm%20(sort).md#stl-library---algorithm-sort)  
   * [non-modifying(find, count, equal, search)](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/STL%20Library%20-%20(non-modifying).md#stl-library---non-modifying)  
+  * [modifying(copy, swap ,remove, transform)](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/STL%20Library%20-%20modifying.md#stl-library---modifying)  
   
 
 
