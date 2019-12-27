@@ -64,7 +64,7 @@ int main()
 	partition(0, num - 1);
 
 	for (int i = 0; i < num; i++)
-		printf("%d\n", arr[i]);
+		printf("%d ", arr[i]);
 
 	return 0;
 }
