@@ -82,7 +82,7 @@ int main()
 
 ### Reference
 
-[위키백과]([https://ko.wikipedia.org/wiki/%ED%95%A9%EB%B3%91_%EC%A0%95%EB%A0%AC](https://ko.wikipedia.org/wiki/합병_정렬))
+[위키백과](https://ko.wikipedia.org/wiki/합병_정렬)
 
 [권희정님의 블로그](https://gmlwjd9405.github.io/2018/05/08/algorithm-merge-sort.html)
 
