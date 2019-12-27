@@ -72,7 +72,7 @@ int main() {
 
 ### sort함수 사용 예시 실행결과
 
-![실행결과](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/stl_sort_ex1.png)  
+![실행결과](./algorithm_concept_note/img/stl_sort_ex1.png)  
 
 
 
@@ -130,7 +130,7 @@ int main() {
 
 ### partial_sort 함수 사용 예시 실행 결과
 
-![실행결과](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/stl_sort_ex2.png)
+![실행결과](./algorithm_concept_note/img/stl_sort_ex2.png)
 
 
 
@@ -207,7 +207,7 @@ int main() {
 
 ### stable_sort 함수 실행 결과
 
-![실행 결과](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/stl_sort_ex3.png)
+![실행 결과](./algorithm_concept_note/img/stl_sort_ex3.png)
 
 
 
@@ -265,5 +265,5 @@ int main() {
 
 ### is_sorted 함수 사용 예시 실행 결과
 
-![실행 결과](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/stl_sort_ex4.png)
+![실행 결과](./algorithm_concept_note/img/stl_sort_ex4.png)
 

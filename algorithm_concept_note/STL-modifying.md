@@ -75,7 +75,7 @@ int main() {
 
 ### copy, copy_if 함수 소스코드 예시 실행 결과
 
-![실행 결과](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/modifying_ex5.png)
+![실행 결과](./algorithm_concept_note/img/modifying_ex5.png)
 
 
 
@@ -132,7 +132,7 @@ int main() {
 
 ### swap함수 소스코드 예시 실행 결과
 
-![실행 결과](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/modifying_ex6.png)
+![실행 결과](./algorithm_concept_note/img/modifying_ex6.png)
 
 
 
@@ -192,7 +192,7 @@ int main() {
 
 ### remove 함수 소스코드 예시 실행결과
 
-![실행 결과](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/modifying_ex7.png)
+![실행 결과](./algorithm_concept_note/img/modifying_ex7.png)
 
 
 
@@ -252,5 +252,5 @@ int main()
 
 ### transform 함수 소스코드 예시 실행결과
 
-![실행 결과](https://github.com/Kyun2da/Algorithm/blob/master/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC/modifying_ex8.png)  
+![실행 결과](./algorithm_concept_note/img/modifying_ex8.png)  
 
