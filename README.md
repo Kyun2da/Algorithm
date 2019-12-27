@@ -3,7 +3,12 @@
 
 ## 알고리즘 개념 정리
 
+### 자료구조
+
+- [스택](./algorithm_concept_note/stack.md)
+
 ### STL 라이브러리
+
 * 컨테이너 (헤더가 각 자료지정자의 이름임)
   * [vector](./algorithm_concept_note/STL-Vector.md)  
   * [stack](./algorithm_concept_note/STL-stack.md)  
