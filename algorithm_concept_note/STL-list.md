@@ -198,7 +198,7 @@ int main()
 
 ### 예시 코드1 실행 결과
 
-![실행결과1](./algorithm_concept_note/img/list_ex1.png)  
+![실행결과1](./img/list_ex1.png)  
 
 
 
@@ -291,7 +291,7 @@ int main()
 
 ### 예시코드2 실행 결과
 
-![실행결과2](./algorithm_concept_note/img/list_ex2.png)  
+![실행결과2](./img/list_ex2.png)  
 
 
 

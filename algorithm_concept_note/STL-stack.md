@@ -76,4 +76,4 @@ int main()
 
 ### 실행 결과
 
-![실행결과](./algorithm_concept_note/img/stack_ex.png)
+![실행결과](./img/stack_ex.png)

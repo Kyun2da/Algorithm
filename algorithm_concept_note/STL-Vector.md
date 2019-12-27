@@ -166,4 +166,4 @@ int main()
 
 ### 실행 결과
 
-![실행결과](./algorithm_concept_note/img/vector_ex.png)  
+![실행결과](./img/vector_ex.png)  

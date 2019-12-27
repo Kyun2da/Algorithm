@@ -79,4 +79,4 @@ int main()
 
 ### 실행 결과
 
-![실행 결과](./algorithm_concept_note/img/queue_ex.png)
+![실행 결과](./img/queue_ex.png)

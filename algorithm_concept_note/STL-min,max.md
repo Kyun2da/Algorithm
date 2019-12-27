@@ -44,4 +44,4 @@ int main() {
 
 ### min,max 소스코드 예시 실행 결과
 
-![실행 결과](./algorithm_concept_note/img/min,max_ex.png)  
+![실행 결과](./img/min,max_ex.png)  

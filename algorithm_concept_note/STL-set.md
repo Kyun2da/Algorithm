@@ -138,5 +138,5 @@ int main()
 
 ### 실행 결과
 
-![실행결과](./algorithm_concept_note/img/set_ex.png)  
+![실행결과](./img/set_ex.png)  
 

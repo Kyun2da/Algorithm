@@ -115,4 +115,4 @@ int main()
 
 ### 실행결과
 
-![실행결과](./algorithm_concept_note/img/pair_ex.png)  
+![실행결과](./img/pair_ex.png)  

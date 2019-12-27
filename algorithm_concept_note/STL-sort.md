@@ -92,4 +92,4 @@ int main()
 
 ### 출력 결과
 
-![출력결과](./algorithm_concept_note/img/sort_ex.png)
+![출력결과](./img/sort_ex.png)

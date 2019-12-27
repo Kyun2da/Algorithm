@@ -152,4 +152,4 @@ int main()
 
 ### 실행결과
 
-![실행 결과](./algorithm_concept_note/img/deque_ex.png)  
+![실행 결과](./img/deque_ex.png)  

@@ -131,4 +131,4 @@ int main()
 
 ### 실행 결과
 
-![실행 결과](./algorithm_concept_note/img/map_ex.png)  
+![실행 결과](./img/map_ex.png)  
