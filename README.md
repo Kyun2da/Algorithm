@@ -6,6 +6,7 @@
 ### 자료구조
 
 - [스택](./algorithm_concept_note/stack.md)
+- [큐](./algorithm_concept_note/Queue.md)
 
 ### STL 라이브러리
 
