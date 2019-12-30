@@ -7,6 +7,7 @@
 
 - [스택](./algorithm_concept_note/stack.md)
 - [큐](./algorithm_concept_note/Queue.md)
+- [원형 큐](./algorithm_concept_note/circular_queue.md)
 
 ### STL 라이브러리
 
