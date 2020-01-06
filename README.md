@@ -9,6 +9,7 @@
 - [큐](./algorithm_concept_note/Queue.md)
 - [원형 큐](./algorithm_concept_note/circular_queue.md)
 - [덱](./algorithm_concept_note/Deque.md)
+- [트리](./algorithm_concept_note/tree.md)
 
 ### STL 라이브러리
 
