@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3036 링", "3036 링\3036 링.vcxproj", "{091C980B-33EE-4A94-8C2B-2E878EFAF107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{091C980B-33EE-4A94-8C2B-2E878EFAF107}.Debug|x64.ActiveCfg = Debug|x64
+		{091C980B-33EE-4A94-8C2B-2E878EFAF107}.Debug|x64.Build.0 = Debug|x64
+		{091C980B-33EE-4A94-8C2B-2E878EFAF107}.Debug|x86.ActiveCfg = Debug|Win32
+		{091C980B-33EE-4A94-8C2B-2E878EFAF107}.Debug|x86.Build.0 = Debug|Win32
+		{091C980B-33EE-4A94-8C2B-2E878EFAF107}.Release|x64.ActiveCfg = Release|x64
+		{091C980B-33EE-4A94-8C2B-2E878EFAF107}.Release|x64.Build.0 = Release|x64
+		{091C980B-33EE-4A94-8C2B-2E878EFAF107}.Release|x86.ActiveCfg = Release|Win32
+		{091C980B-33EE-4A94-8C2B-2E878EFAF107}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DE99815-57EE-4D45-97E8-151E254CD37F}
+	EndGlobalSection
+EndGlobal
