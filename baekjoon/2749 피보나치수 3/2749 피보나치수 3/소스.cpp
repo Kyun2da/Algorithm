@@ -1,4 +1,5 @@
 //피사노 주기
+// M = 10k 일 때, k > 2 라면, 주기는 항상 15 × 10^(k-1) 입니다.
 #include <iostream>
 using namespace std;
 
