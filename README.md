@@ -3,6 +3,10 @@
 
 ## 알고리즘 개념 정리
 
+### 읽으면 좋은 사이트
+
+- [바킹독님의 알고리즘 정리](https://blog.encrypted.gg/category/강좌/실전%20알고리즘)
+
 ### 자료구조
 
 - [스택](./algorithm_concept_note/stack.md)
@@ -29,6 +33,8 @@
   * [non-modifying(find, count, equal, search)](./algorithm_concept_note/STL-non-modifying.md)  
   * [modifying(copy, swap ,remove, transform)](./algorithm_concept_note/STL-modifying.md)  
   * [min,max](./algorithm_concept_note/STL-min,max.md)  
+  * [Binary_search](./algorithm_concept_note/STL-Binary_search.md)
+  * [lower_bound, upper_bound](./algorithm_concept_note/STL-lowerupper.md)
 * 기타
   * [string](./algorithm_concept_note/STL-string.md)  
   
