@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2667 단지번호 붙이기", "2667 단지번호 붙이기\2667 단지번호 붙이기.vcxproj", "{D324250F-C1EC-4A32-A759-D6A998F4824D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D324250F-C1EC-4A32-A759-D6A998F4824D}.Debug|x64.ActiveCfg = Debug|x64
+		{D324250F-C1EC-4A32-A759-D6A998F4824D}.Debug|x64.Build.0 = Debug|x64
+		{D324250F-C1EC-4A32-A759-D6A998F4824D}.Debug|x86.ActiveCfg = Debug|Win32
+		{D324250F-C1EC-4A32-A759-D6A998F4824D}.Debug|x86.Build.0 = Debug|Win32
+		{D324250F-C1EC-4A32-A759-D6A998F4824D}.Release|x64.ActiveCfg = Release|x64
+		{D324250F-C1EC-4A32-A759-D6A998F4824D}.Release|x64.Build.0 = Release|x64
+		{D324250F-C1EC-4A32-A759-D6A998F4824D}.Release|x86.ActiveCfg = Release|Win32
+		{D324250F-C1EC-4A32-A759-D6A998F4824D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A4222D8-CBA8-4E81-AB72-68992B975011}
+	EndGlobalSection
+EndGlobal
