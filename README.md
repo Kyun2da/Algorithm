@@ -3,6 +3,10 @@
 
 ## 알고리즘 개념 정리
 
+### 알고리즘 팁 정리(문법or 간단하게 쓸 수 있는 것들)
+
+- [정리중](./algorithm_concept_note/tips.md)
+
 ### 읽으면 좋은 사이트
 
 - [바킹독님의 알고리즘 정리](https://blog.encrypted.gg/category/강좌/실전%20알고리즘)
