@@ -17,8 +17,6 @@ int main()
 
 	for (int i = 0; i < N; i++)
 	{
-		if (s.empty()) //스택이 비어있으면 푸시
-			s.push(i);
 		while (!s.empty() && arr[s.top()] < arr[i]) //arr[i]가 top보다 클때까지 계속 pop하면서 결과 배열에 넣는다.
 		{
 			res[s.top()] = arr[i];
