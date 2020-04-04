@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11055 가장 큰 증가 부분 수열", "11055 가장 큰 증가 부분 수열\11055 가장 큰 증가 부분 수열.vcxproj", "{1A5441CC-8971-4478-8B86-AB59C561CD88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A5441CC-8971-4478-8B86-AB59C561CD88}.Debug|x64.ActiveCfg = Debug|x64
+		{1A5441CC-8971-4478-8B86-AB59C561CD88}.Debug|x64.Build.0 = Debug|x64
+		{1A5441CC-8971-4478-8B86-AB59C561CD88}.Debug|x86.ActiveCfg = Debug|Win32
+		{1A5441CC-8971-4478-8B86-AB59C561CD88}.Debug|x86.Build.0 = Debug|Win32
+		{1A5441CC-8971-4478-8B86-AB59C561CD88}.Release|x64.ActiveCfg = Release|x64
+		{1A5441CC-8971-4478-8B86-AB59C561CD88}.Release|x64.Build.0 = Release|x64
+		{1A5441CC-8971-4478-8B86-AB59C561CD88}.Release|x86.ActiveCfg = Release|Win32
+		{1A5441CC-8971-4478-8B86-AB59C561CD88}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0DCCB67-2ABD-4475-81A4-BE1DD36513F8}
+	EndGlobalSection
+EndGlobal
