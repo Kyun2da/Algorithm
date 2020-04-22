@@ -8,8 +8,6 @@ pow함수를 쓸 필요 없이 비트연산자 **1<<N** 을 쓰면 2의 N승을 
 
 
 
-
-
 ------
 
 ### ios::sync_with_stdio(false)
@@ -36,3 +34,32 @@ cout.precision(2); // 소수점둘째자리까지 표현하겠다.
 이 두 표현을 합치면 소수점 둘째자리까지 고정시켜 표현하겠다는 뜻이다.
 
 그러므로 1이어도 1.00이 출력되고 2.435이면 2.44인 반올림해서 출력이 된다.
+
+
+
+------
+
+### 배열 쉽게 복사(Deep Copy)하기
+
+http://www.devpia.com/MAEUL/Contents/Detail.aspx?BoardID=51&MAEULNo=20&no=8760&ref=8760
+이 문서를 참조하면 for loop, memcpy, std::copy가 나오는데 이 for loop은 문서에 따르면 느리기 때문에 memcpy나 std::copy를 사용하면 된다
+
+```c++
+#include <string.h>
+
+void *memcpy(void *dest, const void *src, size_t n);
+```
+
+```c++
+#include <algorithm>
+int arr[10];
+int arr2[10;]
+std::copy( arr, arr+10, arr2 ); // arr를 arr2로 복사하겠다
+```
+
+
+
+------
+
+
+
