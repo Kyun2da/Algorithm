@@ -61,5 +61,19 @@ std::copy( arr, arr+10, arr2 ); // arr를 arr2로 복사하겠다
 
 ------
 
+### 내림차순 정렬 쉽게하기
 
+```c++
+#include <iostream>
+#include <algorithm>
+#include <functional> //greater함수를 쓰기 위해 필요함
+
+int main(){
+int arr[10];
+for(int i=0; i<10; i++)
+	cin >> arr[i];
+sort(arr,arr+10, greater<int>()); //이 greater함수를 사용하면 쉽게 내림차순 정렬을 할 수 있음
+return 0;
+}
+```
 
