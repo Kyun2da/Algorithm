@@ -1,32 +1,52 @@
-const name = "ABC";
-
-const solution = (name) => {
+function solution(name) {
+  const start = `A`.charCodeAt();
+  const end = `Z`.charCodeAt() + 1;
+  const strs = name.split(``);
   let answer = 0;
-  let temp = "A".repeat(name.length);
-  let idx = 0;
-  let direction = 1;
+  let i = 0;
+
   while (true) {
-    if (name[idx].charCodeAt(0) > 78) {
-      //조이스틱 위로
-      answer += 90 - name[idx].charCodeAt(0) + 1;
-    } else {
-      //조이스틱 아래로
-      answer += name[idx].charCodeAt(0) - 65;
+    if (strs[i] !== `A`) {
+      const cur = strs[i].charCodeAt();
+      const down = Math.abs(start - cur);
+      const up = Math.abs(end - cur);
+
+      answer += Math.min(down, up);
+      strs[i] = `A`;
     }
-    temp = temp.substring(0, idx) + name[idx] + temp.substring(idx + 1);
-    console.log(temp);
-    if (temp === name) {
-      //답이 완성되면 브레이크
+    // 알파벳 이름을 완성하였을 때는 커서를 이동할 필요가 없음
+    if (strs.findIndex((str) => str !== `A`) === -1) {
       break;
     }
-    //TODO : A가아닐때까지 가는 거리 계산하는 로직 필요
-    if (temp[idx] === "A") {
+    let rightCount = 0;
+    let rightIndex = 0;
+    let leftCount = 0;
+    let leftIndex = 0;
+
+    // 오른 쪽 카운트
+    for (let right = 1; right < strs.length; right++) {
+      rightIndex = (i + right) % strs.length;
+      if (strs[rightIndex] !== `A`) {
+        rightCount = right;
+        break;
+      }
     }
-    idx++;
-    answer++;
+    // 왼 쪽 카운트
+    for (let left = 1; left < strs.length; left++) {
+      leftIndex = i - left < 0 ? i - left + strs.length : i - left;
+      if (strs[leftIndex] !== `A`) {
+        leftCount = left;
+        break;
+      }
+    }
+    // 더 가까운 쪽으로 이동
+    if (rightCount <= leftCount) {
+      i = rightIndex;
+      answer += rightCount;
+    } else {
+      i = leftIndex;
+      answer += leftCount;
+    }
   }
-
   return answer;
-};
-
-console.log(solution(name));
+}
