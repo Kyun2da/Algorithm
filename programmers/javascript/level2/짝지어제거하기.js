@@ -18,3 +18,23 @@ const solution = (s) => {
 };
 
 console.log(solution(s));
+
+// 효율성 통과 못한 코드
+/*
+const solution = (s) => {
+    let answer = 0;
+    for (let i = 0; i < s.length - 1; i++) {
+      if (s[i] === s[i + 1]) {
+        s = s.substr(0, i) + s.substr(i + 2);
+        i -= 2;
+      }
+      console.log(s);
+    }
+    if (s === "") {
+      return 1;
+    }
+    return 0;
+  };
+  
+  console.log(solution(s));
+  */
