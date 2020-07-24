@@ -21,8 +21,6 @@ const solution = (genres, plays) => {
       play.push([[plays[i], i]]);
     }
   }
-  //console.log(genre);
-  //console.log(play);
 
   play.sort((a, b) => {
     return sum(b) - sum(a);
@@ -34,7 +32,6 @@ const solution = (genres, plays) => {
     });
   }
 
-  //console.log(play);
   for (let i = 0; i < play.length; i++) {
     for (let j = 0; j < play[i].length; j++) {
       if (j === 2) break;
