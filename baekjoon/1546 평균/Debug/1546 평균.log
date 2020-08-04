@@ -1,9 +1,0 @@
-﻿  1546 평균.cpp
-c:\users\dktns\onedrive\바탕 화면\백준알고리즘\1546 평균\1546 평균.cpp(8): warning C4477: 'scanf' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
-c:\users\dktns\onedrive\바탕 화면\백준알고리즘\1546 평균\1546 평균.cpp(12): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'float *'입니다.
-c:\users\dktns\onedrive\바탕 화면\백준알고리즘\1546 평균\1546 평균.cpp(22): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
-c:\users\dktns\onedrive\바탕 화면\백준알고리즘\1546 평균\1546 평균.cpp(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
-c:\users\dktns\onedrive\바탕 화면\백준알고리즘\1546 평균\1546 평균.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
-  1546 평균.vcxproj -> C:\Users\dktns\OneDrive\바탕 화면\백준알고리즘\1094\Debug\1546 평균.exe

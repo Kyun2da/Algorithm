@@ -1,3 +1,0 @@
-C:\Users\pc\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.5662.56\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\10870_Fibonacci.dir/objects.a
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\10870_Fibonacci.dir/objects.a @CMakeFiles\10870_Fibonacci.dir\objects1.rsp
-C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\10870_Fibonacci.dir/objects.a -Wl,--no-whole-archive  -o 10870_Fibonacci.exe -Wl,--out-implib,lib10870_Fibonacci.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\10870_Fibonacci.dir\linklibs.rsp

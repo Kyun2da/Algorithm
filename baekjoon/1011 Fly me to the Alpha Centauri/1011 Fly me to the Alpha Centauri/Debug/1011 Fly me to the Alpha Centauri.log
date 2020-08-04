@@ -1,5 +1,0 @@
-﻿  소스.cpp
-C:\Users\dktns\OneDrive\바탕 화면\백준알고리즘\백준알고리즘\1011 Fly me to the Alpha Centauri\1011 Fly me to the Alpha Centauri\소스.cpp(24,19): warning C4244:  '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\dktns\OneDrive\바탕 화면\백준알고리즘\백준알고리즘\1011 Fly me to the Alpha Centauri\1011 Fly me to the Alpha Centauri\소스.cpp(25,14): warning C4244:  '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\dktns\OneDrive\바탕 화면\백준알고리즘\백준알고리즘\1011 Fly me to the Alpha Centauri\1011 Fly me to the Alpha Centauri\소스.cpp(5,15): warning C4101:  'distance' :참조되지 않은 지역 변수입니다.
-  1011 Fly me to the Alpha Centauri.vcxproj -> C:\Users\dktns\OneDrive\바탕 화면\백준알고리즘\백준알고리즘\1011 Fly me to the Alpha Centauri\Debug\1011 Fly me to the Alpha Centauri.exe
