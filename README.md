@@ -6,5 +6,5 @@
 
 ### Python
 
-[파이썬 개념 정리](./python/README.md)
+[파이썬 개념 보러가기](./python/README.md)
 
