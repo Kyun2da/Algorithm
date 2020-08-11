@@ -7,8 +7,6 @@ def dfs(index):
         for i in range(0,N):
             if i not in start:
                 link.append(i)
-        #print(start)
-        #print(link)
         for i in range(0, N // 2 - 1):
             for j in range(i+1, N // 2):
                 startSum += arr[start[i]][start[j]] + arr[start[j]][start[i]]
