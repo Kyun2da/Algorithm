@@ -2,6 +2,8 @@
 
 ### 파이썬 문법
 
+- [자료형](./conceptNote/type.md)
+
 - [정렬](./conceptNote/sort.md)
 
 ### 파이썬 유용한 사이트 및 팁
