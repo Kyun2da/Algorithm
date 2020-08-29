@@ -10,6 +10,7 @@ def mul(a, b):
         d %= c
         return d ** 2 % c
 
+
 a, b, c = map(int, input().split())
 
 print(mul(a, b) % c)
