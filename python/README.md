@@ -6,6 +6,13 @@
 - [정렬](./conceptNote/sort.md)
 - [주요 라이브러리](./conceptNote/library.md)
 
+### 정렬 개념
+
+- [선택정렬](./conceptNote/SelectionSort.md)
+- [삽입정렬](./conceptNote/InsetionSort.md)
+- [병합정렬](./conceptNote/MergeSort.md)
+- [퀵정렬](./conceptNote/QuickSort.md)
+
 ### 파이썬 유용한 사이트 및 팁
 
 - [파이썬 기본입력받기](https://velog.io/@dlrmwl15/파이썬-입력받기)
