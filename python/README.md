@@ -9,7 +9,7 @@
 ### 정렬 개념
 
 - [선택정렬](./conceptNote/SelectionSort.md)
-- [삽입정렬](./conceptNote/InsetionSort.md)
+- [삽입정렬](./conceptNote/InsertionSort.md)
 - [병합정렬](./conceptNote/MergeSort.md)
 - [퀵정렬](./conceptNote/QuickSort.md)
 
