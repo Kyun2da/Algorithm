@@ -13,6 +13,8 @@
 - [병합정렬](./conceptNote/MergeSort.md)
 - [퀵정렬](./conceptNote/QuickSort.md)
 - [힙정렬](./conceptNote/HeapSort.md)
+- [기수정렬](./conceptNote/RadixSort.md)
+- [계수정렬](./conceptNote/CountingSort.md)
 
 ### 파이썬 유용한 사이트 및 팁
 
