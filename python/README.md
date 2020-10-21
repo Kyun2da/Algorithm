@@ -12,6 +12,7 @@
 - [삽입정렬](./conceptNote/InsertionSort.md)
 - [병합정렬](./conceptNote/MergeSort.md)
 - [퀵정렬](./conceptNote/QuickSort.md)
+- [힙정렬](./conceptNote/HeapSort.md)
 
 ### 파이썬 유용한 사이트 및 팁
 
