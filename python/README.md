@@ -8,6 +8,7 @@
 
 ### 정렬 개념
 
+- [버블정렬](./conceptNote/BubbleSort.md)
 - [선택정렬](./conceptNote/SelectionSort.md)
 - [삽입정렬](./conceptNote/InsertionSort.md)
 - [병합정렬](./conceptNote/MergeSort.md)
