@@ -5,6 +5,7 @@
 - [자료형](./conceptNote/type.md)
 - [정렬](./conceptNote/sort.md)
 - [주요 라이브러리](./conceptNote/library.md)
+- [파이썬 for문 순회의 다양한 방법](./conceptNote/forloop.md)
 
 ## 자료구조 선언이나 쓸 때 유용한 팁
 
@@ -36,5 +37,3 @@
 
   - [크루스칼 알고리즘](./conceptNote/kruskal.md)
   - [프림 알고리즘](./conceptNote/prim.md)
-
-  
