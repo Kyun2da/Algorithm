@@ -7,10 +7,49 @@
 - [주요 라이브러리](./conceptNote/library.md)
 - [파이썬 for문 순회의 다양한 방법](./conceptNote/forloop.md)
 
-## 자료구조 선언이나 쓸 때 유용한 팁
+## 자료구조
 
-- [배열](./conceptNote/array.md)
-- [집합](./conceptNote/set.md)
+- [배열(array)](./conceptNote/array.md)
+- 스택(stack)
+- 큐(queue)
+- 힙(heap)
+- 트리(tree)
+- 딕셔너리(dictionary)
+- 셋(set)
+- 튜플(tuple)
+- 순열(permutation)
+- 조합(combination)
+
+## 알고리즘
+
+- 문자열
+- 백트래킹
+- dp
+- 그리디
+
+- 이분 탐색
+- 우선순위 큐
+- dfs
+- bfs
+- 투 포인터
+- 위상 정렬
+- 비트마스크
+
+## 수학
+
+- 
+
+## 문자열 알고리즘
+
+- 최장 공통 부분 문자열(LCS)
+- manacher's algorithm
+- KMP
+- Trie
+- 이진탐색
+- Naive String Search
+- Finite-state automation based search
+- 아호 코라식
+- Suffix Array
 
 ## 정렬 개념
 
@@ -32,8 +71,10 @@
 ## 그래프
 
 - [유니온 파인드](./conceptNote/unionFind.md)
-
 - [최소스패닝트리](./conceptNote/mst.md)
 
   - [크루스칼 알고리즘](./conceptNote/kruskal.md)
   - [프림 알고리즘](./conceptNote/prim.md)
+- 다익스트라
+- 플로이드 워셜
+- 벨만 포드
