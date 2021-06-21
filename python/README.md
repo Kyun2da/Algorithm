@@ -10,11 +10,11 @@
 ## 자료구조
 
 - [배열(array)](./conceptNote/array.md)
-- 스택(stack)
-- 큐(queue)
-- 힙(heap)
-- 트리(tree)
-- 딕셔너리(dictionary)
+- [스택(stack)](./conceptNote/stack.md)
+- [큐(queue)](./conceptNote/queue.md)
+- [힙(heap)](./conceptNote/heap.md)
+- [트리(tree)](./conceptNote/tree.md)
+- [딕셔너리(dictionary)](./conceptNote/dictionary.md)
 - 셋(set)
 - 튜플(tuple)
 - 순열(permutation)
